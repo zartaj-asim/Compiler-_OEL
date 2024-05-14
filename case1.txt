@@ -1,0 +1,9 @@
+int x = 5;
+int y = 10;
+int result;
+
+if (x > y) {
+    result = x;
+} else {
+    result = y;
+}
